@@ -24,8 +24,7 @@ me.say_hi()
 - 🌱 I’m currently learning more on Building Mobile Appication
 - 💬 Ask me about **Python, C++ and HTML**
 
-
-  ## :muscle: Skills
+## :muscle: Skills
 - 👨‍💻 Python, JavaScript
 - ⚙️ React
 - 👁️ C, C++
