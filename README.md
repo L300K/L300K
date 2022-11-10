@@ -1,5 +1,9 @@
 <h2 align="center">👋 Hello! I'm Sawarach Silakorn.</h2>
 <p align="center">
+  <p align="center">
+  <a href="https://www.facebook.com/l3ook.Sawarach/">Facebook</a> •
+  <a href="https://github.com/L300K">Github</a>
+</p>
   
   ```python
 class ComputerEngineer:
