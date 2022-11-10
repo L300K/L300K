@@ -21,15 +21,25 @@ me.say_hi()
 ```
   -------
   - 🔭 I’m studying in Rangsit University 
-- 🌱 I’m currently learning more on Observability and better DevOps Practices
-- 💬 Ask me about **Go, Git and Python**
-- 📫 How to reach me: [@athulcajay](https://twitter.com/athulcajay) on Twitter
-- ⚡ Fun fact: Big Fan of the :zap: emoji
-- 
+- 🌱 I’m currently learning more on Building Mobile Appication
+- 💬 Ask me about **Python, C++ and HTML**
+
+
   ## Skills
 - 👨‍💻 Python, JavaScript
 - ⚙️ React
 - 👁️ C, C++
 - 💽 HTML, CSS
+
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/Zhenye-Na/DA-RNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=L300K&repo=GPA-Calculator" alt="DA-RNN" />
+</a>
+
+<a href="https://github.com/Zhenye-Na/crnn-pytorch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+</a>
   
   
