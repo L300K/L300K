@@ -25,7 +25,7 @@ me.say_hi()
 - 💬 Ask me about **Python, C++ and HTML**
 
 
-  ## Skills
+  ## :muscle: Skills
 - 👨‍💻 Python, JavaScript
 - ⚙️ React
 - 👁️ C, C++
