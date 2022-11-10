@@ -20,7 +20,7 @@ me = ComputerEngineer()
 me.say_hi()
 ```
   -------
-  - 🔭 I’m studying in Rangsit University 
+  - 🔭 I’m studying at Rangsit University 
 - 🌱 I’m currently learning more on Building Mobile Appication
 - 💬 Ask me about **Python, C++ and HTML**
 
