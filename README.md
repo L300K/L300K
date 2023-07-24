@@ -37,8 +37,8 @@ me.say_hi()
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=L300K&repo=GPA-Calculator" alt="DA-RNN" />
 </a>
 
-<a href="https://github.com/L300K/Covid-Report">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=L300K&repo=Covid-Report" alt="crnn-pytorch" />
+<a href="https://github.com/L300K/CPE_RSU_Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=L300K&repo=CPE_RSU_Bot" alt="crnn-pytorch" />
 </a>
   
   
